@@ -8,10 +8,14 @@ Hint: Make a few animals using Rails Console
 <!-- Done -->
 
 Story: As the consumer of the API I can update an animal in the database.
-
+<!-- Done -->
 
 Story: As the consumer of the API I can destroy an animal in the database.
+<!-- Done -->
+
 Story: As the consumer of the API I can create a new animal in the database.
+<!-- Done -->
+
 Story: As the consumer of the API I can create a sighting of an animal with date (use the datetime datatype), a latitude, and a longitude.
 Hint: An animal has_many sightings. (rails g resource Sighting animal_id:integer ...)
 Story: As the consumer of the API I can update an animal sighting in the database.
